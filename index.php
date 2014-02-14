@@ -25,6 +25,7 @@ static function connect(){
   }
 echo 'aaaa';
 for($i=0;$i<10;$i++) {
-		echo $i.'<br>';	
+		echo $i.'<br>';
+		echo 'hello word!';	
 	}
 ?>
