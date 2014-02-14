@@ -9,5 +9,5 @@ private function s() {
 	}
 ?>
 <form method="" action="">
-<input type="submit">
+
 </form>>
