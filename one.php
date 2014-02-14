@@ -8,4 +8,6 @@ private function s() {
 	
 	}
 ?>
-<form method="" action=""></form>>
+<form method="" action="">
+<input type="submit">
+</form>>

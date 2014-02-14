@@ -30,4 +30,6 @@ for($i=0;$i<10;$i++) {
 	}
 	$sdd=234;
 	$dfg='fdsgabdfgh';
+	
+	var_dump($expression);
 ?>
