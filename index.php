@@ -23,10 +23,11 @@ static function connect(){
 	return $db;
   	}
   }
-echo 'aaaa';
+
 for($i=0;$i<10;$i++) {
 		echo $i.'<br>';
 		echo 'hello word!';	
 	}
-	
+	$sdd=234;
+	$dfg='fdsgabdfgh';
 ?>
