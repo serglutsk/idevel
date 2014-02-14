@@ -33,5 +33,5 @@ for($i=0;$i<10;$i++) {
 	var_dump($expression);
 	echo $dfg;
 	$w=13414;
-	echo 'asd';
+	
 ?>
